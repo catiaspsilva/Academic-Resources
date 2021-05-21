@@ -7,10 +7,10 @@
     <img src="images/Professortocat_v2.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">README Template</h3>
+  <h3 align="center">Git and GitHub Basics</h3>
 
   <p align="center">
-    A README template to jumpstart your projects!
+    The Git and GitHub basics to get you started!
   </p>
 </p>
 
