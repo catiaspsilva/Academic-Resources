@@ -1,6 +1,6 @@
 # GitHub Educational Materials
 
-![Professortocat](images/Professortocat.png)
+![Professortocat](images/Professortocat_v2.png)
 
 * [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 * [GitHub Flow guides](https://enterprise.github.com/downloads/en/github-flow-cheatsheet.pdf)
