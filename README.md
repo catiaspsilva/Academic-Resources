@@ -18,5 +18,4 @@
 * [GitHub Flow guides](https://enterprise.github.com/downloads/en/github-flow-cheatsheet.pdf)
 * [GitHub Flavored Markdown guides](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 
-
-You can also download [Octocat stickers](https://octodex.github.com/)
+You can also download your favorite [Octocat stickers](https://octodex.github.com/).
