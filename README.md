@@ -1,18 +1,18 @@
-# Educational Materials
+# Educational Resources - Data Science & Machine Learning
 
 <!-- PROJECT LOGO -->
-<br />
+<!-- <br />
 <p align="center">
   <a href="https://github.com/catiaspsilva/GitHub-Education">
     <img src="images/Professortocat_v2.png" alt="Logo" width="150" height="150">
-  </a>
+  </a> -->
 
-  <h3 align="center">The Basics of Machine Learning</h3>
+<!--   <h3 align="center">The Basics of Machine Learning</h3> -->
 
 <!--   <p align="center">
     The basics of machine learning to get you started!
   </p> -->
-</p>
+<!-- </p> -->
 
 ## Version Control with Git and GitHub
 * [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
