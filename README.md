@@ -1,4 +1,4 @@
-# Educational Resources - Data Science & Machine Learning
+# Academic Resources - Data Science & Machine Learning
 
 <!-- PROJECT LOGO -->
 <!-- <br />
