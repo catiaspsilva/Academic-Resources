@@ -15,10 +15,15 @@
 <!-- </p> -->
 
 ## Version Control with Git and GitHub
+* Workshop ["Version Control with Git"](https://swcarpentry.github.io/git-novice/) by Software Carpentry Foundation
 * [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 * [GitHub flow guides](https://enterprise.github.com/downloads/en/github-flow-cheatsheet.pdf)
 * [GitHub flavored markdown guides](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 * [Complete list of Github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+* [GitHub Classroom](https://classroom.github.com/)
+* [GitHub Education](https://education.github.com/) - hands-on experience for students, benefits for teachers and more.
+* [GitHub Pages](https://pages.github.com/)
+* [GitHub Skills](https://skills.github.com/) - "interactive courses for beginners and experts"
 
 You can also download your favorite [Octocat stickers](https://octodex.github.com/).
 
