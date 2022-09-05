@@ -58,7 +58,7 @@ You can also download your favorite [Octocat stickers](https://octodex.github.co
 * MIT OpenCourseWare 6.041 ["Probabilistic Systems Analysis and Applied Probability"](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/)
 
 ## Data Science
-* ["Foundations of Data Science with Python"](https://jmshea.github.io/Foundations-of-Data-Science-with-Python/intro/intro.html) by J.M.Shea
+* ["Foundations of Data Science with Python"](https://jmshea.github.io/Foundations-of-Data-Science-with-Python/intro.html) by J.M.Shea
 * ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by J.VanderPlas
 * ["Data Analysis with Python"](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
