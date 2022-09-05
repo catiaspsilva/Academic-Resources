@@ -15,7 +15,7 @@
 <!-- </p> -->
 
 ## Version Control with Git and GitHub
-* Workshop ["Version Control with Git"](https://swcarpentry.github.io/git-novice/) by Software Carpentry Foundation
+* ["Version Control with Git"](https://swcarpentry.github.io/git-novice/) by Software Carpentry Foundation
 * [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 * [GitHub flow guides](https://enterprise.github.com/downloads/en/github-flow-cheatsheet.pdf)
 * [GitHub flavored markdown guides](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
