@@ -28,6 +28,7 @@
 You can also download your favorite [Octocat stickers](https://octodex.github.com/).
 
 ## Python Programming
+* ["Python Notes for Professionals"](https://books.goalkicker.com/PythonBook/) by GoalKicker.com
 * ["A Whirlwind Tour of Python"](https://jakevdp.github.io/WhirlwindTourOfPython/) by Jake VanderPlas
 * ["Object-oriented Programming in Python for Mathematicians"](https://object-oriented-python.github.io/index.html) by David A. Ham
 * [YouTube "Python Programming for Beginners Tutorials"](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) by C.Schafer
@@ -48,6 +49,7 @@ You can also download your favorite [Octocat stickers](https://octodex.github.co
 * ["The Matrix Cookbook"](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) by K.B.Petersen and M.S.Pedersen
 
 **Probability and Statistics**
+* ["Introduction to Probability for Data Science"](https://probability4datascience.com/) by Stanley H. Chan
 * ["Probabibility and Bayesian Modeling"](https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html) by J.Albert and J.Hu
 * ["Probability, Statistics, and Random Processes For Electrical Engineering"](https://www.pearson.com/us/higher-education/program/Leon-Garcia-Probability-Statistics-and-Random-Processes-For-Electrical-Engineering-3rd-Edition/PGM104866.html) by A. Leon-Garcia
 * ["First Course in Probability"](https://www.pearson.com/us/higher-education/program/Ross-First-Course-in-Probability-A-10th-Edition/PGM1786065.html) by S.Ross
@@ -74,7 +76,8 @@ You can also download your favorite [Octocat stickers](https://octodex.github.co
 * ["Hands-On Machine Learning with Scikit-Learn and Tensorflow"](https://github.com/ageron/handson-ml2) by A.Géron
 * ["TinyML - Machine Learning with Tensorflow Lite on Arduino and Ultra-Low-Power Microcontrollers"](https://tinymlbook.com/) by P.Warden and D.Situnayake
 * [YouTube "Neural Networks"](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 3Blue1Brown by Grant Sanderson
-* ["A Neural Network Playgroun"](https://playground.tensorflow.org/#activation=tanh&regularization=L2&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.1&regularizationRate=0&noise=10&networkShape=2&seed=0.66302&showTestData=false&discretize=false&percTrainData=80&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) by TensorFlow
+* ["A Neural Network Playground"](https://playground.tensorflow.org/#activation=tanh&regularization=L2&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.1&regularizationRate=0&noise=10&networkShape=2&seed=0.66302&showTestData=false&discretize=false&percTrainData=80&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) by TensorFlow
+* ["Pen and Paper Exercises in Machine Learning"](https://arxiv.org/abs/2206.13446) by Michael U. Gutmann
 
 ## Deep Learning
 * ["Introduction to Deep Learning"](https://mitpress.ublish.com/book/introduction-to-deep-learning#tab-4497) by E.Charniak
