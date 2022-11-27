@@ -31,9 +31,9 @@ You can also download your favorite [Octocat stickers](https://octodex.github.co
 * ["Python Notes for Professionals"](https://books.goalkicker.com/PythonBook/) by GoalKicker.com
 * ["A Whirlwind Tour of Python"](https://jakevdp.github.io/WhirlwindTourOfPython/) by Jake VanderPlas
 * ["Object-oriented Programming in Python for Mathematicians"](https://object-oriented-python.github.io/index.html) by David A. Ham
-* [YouTube "Python Programming for Beginners Tutorials"](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) by C.Schafer
-* [YouTube "Pandas Tutotials"](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) by C.Schafer
-* [YouTube "Matplotlib Tutorials"](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) by C.Schafer
+* YouTube Series ["Python Programming for Beginners Tutorials"](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) by C.Schafer
+* YouTube Series ["Pandas Tutotials"](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) by C.Schafer
+* YouTube Series ["Matplotlib Tutorials"](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) by C.Schafer
 * [MicroPython](https://micropython.org/)
 
 ## Mathematics for Machine Learning
@@ -41,8 +41,8 @@ You can also download your favorite [Octocat stickers](https://octodex.github.co
 * ["Quantitative Economics with Python"](https://python.quantecon.org/intro.html) by T.J.Sargent and J.Stachurski
 
 **Linear Algebra**
-* ["Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares" by S.Boyd and L.Vandenberghe](https://web.stanford.edu/~boyd/vmls/)
-* [YouTube "Essence of Linear Algebra" 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* ["Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares"](https://web.stanford.edu/~boyd/vmls/) by S.Boyd and L.Vandenberghe
+* YouTube Series ["Essence of Linear Algebra"](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 3Blue1Brown by Grant Sanderson
 
 **Calculus**
 * [YouTube "Essence of Calculus"](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) 3Blue1Brown by Grant Sanderson
