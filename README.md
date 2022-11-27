@@ -62,7 +62,7 @@ You can also download your favorite [Octocat stickers](https://octodex.github.co
 ## Data Science
 * ["Foundations of Data Science with Python"](https://jmshea.github.io/Foundations-of-Data-Science-with-Python/intro.html) by J.M.Shea
 * ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by J.VanderPlas
-* ["Data Analysis with Python"](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+* ["Data Analysis with Python"](https://www.freecodecamp.org/learn/data-analysis-with-python/) by FreeCodeCamp.org
 
 ## Machine Learning
 * ["Pattern Recognition and Machine Learning"](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) by C.Bishop
