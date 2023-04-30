@@ -89,3 +89,7 @@ You can also download your favorite [Octocat stickers](https://octodex.github.co
 * ["Artificial Intelligence - A Modern Approach"](http://aima.cs.berkeley.edu/index.html) by Stuart Russell and Peter Norvig
 * ["Reinforcement Learning - An Introduction"](http://www.incompleteideas.net/book/the-book-2nd.html) by R.Sutton and A.G.Barto
 * ["Feedback Systems: An Introduction for Scientists and Engineers"](http://www.cds.caltech.edu/~murray/amwiki/index.php/Second_Edition) by K.J.Åström and R.M.Murray
+
+## Interpretable, Explainable & Fair AI
+* ["Interpretable Machine Learning - A Guide for Making Black Box Models Explainable"](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+* ["Fairness and Machine Learning - Limitations and Opportunities"](https://fairmlbook.org/) by Solon Barocas, Moritz Hardt, Arvind Narayanan
