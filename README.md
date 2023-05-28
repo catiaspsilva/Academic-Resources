@@ -66,6 +66,7 @@ You can also download your favorite [Octocat stickers](https://octodex.github.co
 
 ## Machine Learning
 * ["Pattern Recognition and Machine Learning"](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) by C.Bishop
+* ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://hastie.su.domains/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * ["Machine Learning - A First Course for Engineers and Scientists"](https://smlbook.org/?_se=aXFiYWxuYXZlZEBnbWFpbC5jb20%3D) by Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön
 * ["Pattern Recognition"](https://www.sciencedirect.com/book/9781597492720/pattern-recognition) by S.Theodoridis and K.Koutroumbas
 * ["Pattern Classification"](https://www.wiley.com/en-us/Pattern+Classification%2C+2nd+Edition-p-9780471056690) by R.O.Duda, P.E.Hart, D.G.Stork
