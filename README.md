@@ -78,6 +78,7 @@ You can also download your favorite [Octocat stickers](https://octodex.github.co
 * [YouTube "Neural Networks"](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 3Blue1Brown by Grant Sanderson
 * ["A Neural Network Playground"](https://playground.tensorflow.org/#activation=tanh&regularization=L2&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.1&regularizationRate=0&noise=10&networkShape=2&seed=0.66302&showTestData=false&discretize=false&percTrainData=80&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) by TensorFlow
 * ["Pen and Paper Exercises in Machine Learning"](https://arxiv.org/abs/2206.13446) by Michael U. Gutmann
+* ["Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI"](https://arxiv.org/abs/2201.00650) by Shlomo Kashani and Amir Ivry
 
 ## Deep Learning
 * ["Introduction to Deep Learning"](https://mitpress.ublish.com/book/introduction-to-deep-learning#tab-4497) by E.Charniak
