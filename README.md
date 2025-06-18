@@ -38,6 +38,7 @@ You can also download your favorite [Octocat stickers](https://octodex.github.co
 * ["Automate the Boring Stuff with Python"](https://automatetheboringstuff.com/#toc) by Al Sweigart
 * ["Coffee Break Python: 50 Workouts to Kickstart Your Rapid Code Understanding in Python"](https://rupert.id.au/python/PDF/2019_08_18_CoffeeBreakPython_paperback_version.pdf) by Christian Mayer
 * ["Invent Your Own Computer Games with Python"](https://inventwithpython.com/invent4thed/) by Al Sweigart
+* ["Programming the BBC micro:bit: Getting Started with MicroPython"](https://www.amazon.com/Programming-BBC-micro-Getting-MicroPython/dp/1260117588) by Simon Monk
 
 ## Mathematics for Machine Learning
 * ["Mathematics for Machine Learning"](https://mml-book.github.io/) by Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
