@@ -36,6 +36,7 @@ You can also download your favorite [Octocat stickers](https://octodex.github.co
 * YouTube Series ["Matplotlib Tutorials"](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) by C.Schafer
 * [MicroPython](https://micropython.org/)
 * ["Automate the Boring Stuff with Python"](https://automatetheboringstuff.com/#toc) by Al Sweigart
+* ["Coffee Break Python: 50 Workouts to Kickstart Your Rapid Code Understanding in Python"](https://rupert.id.au/python/PDF/2019_08_18_CoffeeBreakPython_paperback_version.pdf) by Christian Mayer
 
 ## Mathematics for Machine Learning
 * ["Mathematics for Machine Learning"](https://mml-book.github.io/) by Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
