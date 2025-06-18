@@ -35,6 +35,7 @@ You can also download your favorite [Octocat stickers](https://octodex.github.co
 * YouTube Series ["Pandas Tutotials"](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) by C.Schafer
 * YouTube Series ["Matplotlib Tutorials"](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) by C.Schafer
 * [MicroPython](https://micropython.org/)
+* ["Automate the Boring Stuff with Python"](https://automatetheboringstuff.com/#toc) by Al Sweigart
 
 ## Mathematics for Machine Learning
 * ["Mathematics for Machine Learning"](https://mml-book.github.io/) by Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
